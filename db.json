@@ -1,0 +1,114 @@
+{
+    "userStates": [
+        {
+            "name": "Jan",
+            "ActiveUsers": 4000
+        },
+        {
+            "name": "Feb",
+            "ActiveUsers": 2000
+        },
+        {
+            "name": "Mar",
+            "ActiveUsers": 5000
+        },
+        {
+            "name": "Apr",
+            "ActiveUsers": 1000
+        },
+        {
+            "name": "May",
+            "ActiveUsers": 7000
+        },
+        {
+            "name": "Jun",
+            "ActiveUsers": 6000
+        },
+        {
+            "name": "Jul",
+            "ActiveUsers": 1000
+        },
+        {
+            "name": "Aug",
+            "ActiveUsers": 2000
+        },
+        {
+            "name": "Sep",
+            "ActiveUsers": 8000
+        },
+        {
+            "name": "Oct",
+            "ActiveUsers": 9000
+        },
+        {
+            "name": "Nov",
+            "ActiveUsers": 6000
+        },
+        {
+            "name": "Dec",
+            "ActiveUsers": 9000
+        }
+    ],
+    "members": [
+        {
+            "id": 1,
+            "name": "Anna Keller",
+            "title": "Software Engineer",
+            "img": "https://i.pravatar.cc/40?img=1"
+        },
+        {
+            "id": 2,
+            "name": "Sarah Elaraby",
+            "title": "Software Engineer",
+            "img": "https://i.pravatar.cc/40?img=1"
+        },
+        {
+            "id": 3,
+            "name": "Ahmed Ali",
+            "title": "Software Engineer",
+            "img": "https://i.pravatar.cc/40?img=1"
+        },
+        {
+            "id": 4,
+            "name": "Layla Mahmoud",
+            "title": "Software Engineer",
+            "img": "https://i.pravatar.cc/40?img=1"
+        },
+        {
+            "id": 5,
+            "name": "Sally Hassan",
+            "title": "Software Engineer",
+            "img": "https://i.pravatar.cc/40?img=5"
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "customer": "Susan Carol",
+            "date": "2 Jun 2023",
+            "amount": 122,
+            "status": "Approved"
+        },
+        {
+            "id": 2,
+            "customer": "Susan Carol",
+            "date": "12 Jan 2021",
+            "amount": 435,
+            "status": "Declined"
+        },
+        {
+            "id": 3,
+            "customer": "Susan Carol",
+            "date": "4 Apr 2022",
+            "amount": 543,
+            "status": "Approved"
+        },
+        {
+            "id": 4,
+            "customer": "Susan Carol",
+            "date": "2 Jan 2026",
+            "amount": 6754,
+            "status": "Pending"
+        }
+    ]
+}
