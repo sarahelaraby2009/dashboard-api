@@ -2,7 +2,7 @@
     "name": "json-server-api",
     "version": "1.0.0",
     "scripts": {
-        "start": "npx json-server --watch db.json --port $PORT"
+        "start": "node node_modules/json-server/bin/json-server.js --watch db.json --port $PORT"
     },
     "dependencies": {
         "json-server": "^0.17.4"
