@@ -91,24 +91,35 @@
         },
         {
             "id": 2,
-            "customer": "Susan Carol",
+            "customer": "hayat barkaly",
             "date": "12 Jan 2021",
             "amount": 435,
             "status": "Declined"
         },
         {
             "id": 3,
-            "customer": "Susan Carol",
+            "customer": "mary cameel",
             "date": "4 Apr 2022",
             "amount": 543,
             "status": "Approved"
         },
         {
             "id": 4,
-            "customer": "Susan Carol",
+            "customer": "dana zenus",
             "date": "2 Jan 2026",
             "amount": 6754,
             "status": "Pending"
         }
-    ]
+    ],
+    "userDetails":[
+    { "id": 1, "username": "Snow", "email": "Jon@gmail.com", "status": "Active","transaction":120,"avatar": "https://i.pravatar.cc/150?img=1"},
+    { "id": 2, "username": "Lannister", "email": "Cersei", "status": "Active","transaction":647,"avatar": "https://i.pravatar.cc/150?img=2" },
+    { "id": 3, "username": "Lannister", "email": "Jaime", "status": "Inactive","transaction":1223,"avatar": "https://i.pravatar.cc/150?img=3" },
+    { "id": 4, "username": "Stark", "email": "Arya", "status":"Active","transaction":122440,"avatar": "https://i.pravatar.cc/150?img=4"},
+    { "id": 5, "username": "Targaryen", "email": "Daenerys", "status": "Active","transaction":554 ,"avatar": "https://i.pravatar.cc/150?img=5"},
+    { "id": 6, "username": "Melisandre", "email": null, "status": "Inactive","transaction":432,"avatar": "https://i.pravatar.cc/150?img=6"},
+    { "id": 7, "username": "Clifford", "email":"Ferrar", "status": "Active","transaction":230,"avatar": "https://i.pravatar.cc/150?img=7"},
+    { "id": 8, "username": "Frances", "email": "Rossini", "status": "Inactive","transaction":400 ,"avatar": "https://i.pravatar.cc/150?img=8"},
+    { "id": 9, "username": "Roxie", "email": "Harvey", "status": "Active","transaction":200 ,"avatar": "https://i.pravatar.cc/150?img=9"}
+]
 }
