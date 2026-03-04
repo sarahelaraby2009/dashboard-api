@@ -114,36 +114,39 @@
     "userDetails": [
         {
             "id": 1,
-            "username": "Snow",
+            "username": "Snow mekaly",
             "email": "Jon@gmail.com",
             "status": "Active",
             "transaction": 120,
             "avatar": "https://i.pravatar.cc/150?img=1",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"Software Engineer"
         },
         {
             "id": 2,
-            "username": "Lannister",
+            "username": "Lannister james",
             "email": "Cersei",
             "status": "Active",
             "transaction": 647,
             "avatar": "https://i.pravatar.cc/150?img=2",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"FrontEnd Engineer"
         },
         {
             "id": 3,
-            "username": "Lannister",
+            "username": "maicheal Angelo",
             "email": "Jaime",
             "status": "Inactive",
             "transaction": 1223,
             "avatar": "https://i.pravatar.cc/150?img=3",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"Backend Developer"
         },
         {
             "id": 4,
@@ -158,58 +161,63 @@
         },
         {
             "id": 5,
-            "username": "Targaryen",
-            "email": "Daenerys",
+            "username": "Targaryen Rayan",
+            "email": "Daenerys@gmail.com",
             "status": "Active",
             "transaction": 554,
             "avatar": "https://i.pravatar.cc/150?img=5",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"Software Engineer"
         },
         {
             "id": 6,
-            "username": "Melisandre",
+            "username": "Melisandre Baky",
             "email": null,
             "status": "Inactive",
             "transaction": 432,
             "avatar": "https://i.pravatar.cc/150?img=6",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"Software Engineer"
         },
         {
             "id": 7,
-            "username": "Clifford",
+            "username": "Clifford fady",
             "email": "Ferrar",
             "status": "Active",
             "transaction": 230,
             "avatar": "https://i.pravatar.cc/150?img=7",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"Data Engineer"
         },
         {
             "id": 8,
             "username": "Frances",
-            "email": "Rossini",
+            "email": "Rossini@hotmail.com",
             "status": "Inactive",
             "transaction": 400,
             "avatar": "https://i.pravatar.cc/150?img=8",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"FullStack Engineer"
         },
         {
             "id": 9,
             "username": "Roxie",
-            "email": "Harvey",
+            "email": "Harvey@gmail.com",
             "status": "Active",
             "transaction": 200,
             "avatar": "https://i.pravatar.cc/150?img=9",
             "birtDate":"20.07.1995",
             "address":"11,Block,NewYork",
-            "phone":"+01235735278"
+            "phone":"+01235735278",
+            "job":"Software Engineer"
         }
     ]
 }
