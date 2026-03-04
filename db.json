@@ -111,15 +111,105 @@
             "status": "Pending"
         }
     ],
-    "userDetails":[
-    { "id": 1, "username": "Snow", "email": "Jon@gmail.com", "status": "Active","transaction":120,"avatar": "https://i.pravatar.cc/150?img=1"},
-    { "id": 2, "username": "Lannister", "email": "Cersei", "status": "Active","transaction":647,"avatar": "https://i.pravatar.cc/150?img=2" },
-    { "id": 3, "username": "Lannister", "email": "Jaime", "status": "Inactive","transaction":1223,"avatar": "https://i.pravatar.cc/150?img=3" },
-    { "id": 4, "username": "Stark", "email": "Arya", "status":"Active","transaction":122440,"avatar": "https://i.pravatar.cc/150?img=4"},
-    { "id": 5, "username": "Targaryen", "email": "Daenerys", "status": "Active","transaction":554 ,"avatar": "https://i.pravatar.cc/150?img=5"},
-    { "id": 6, "username": "Melisandre", "email": null, "status": "Inactive","transaction":432,"avatar": "https://i.pravatar.cc/150?img=6"},
-    { "id": 7, "username": "Clifford", "email":"Ferrar", "status": "Active","transaction":230,"avatar": "https://i.pravatar.cc/150?img=7"},
-    { "id": 8, "username": "Frances", "email": "Rossini", "status": "Inactive","transaction":400 ,"avatar": "https://i.pravatar.cc/150?img=8"},
-    { "id": 9, "username": "Roxie", "email": "Harvey", "status": "Active","transaction":200 ,"avatar": "https://i.pravatar.cc/150?img=9"}
-]
+    "userDetails": [
+        {
+            "id": 1,
+            "username": "Snow",
+            "email": "Jon@gmail.com",
+            "status": "Active",
+            "transaction": 120,
+            "avatar": "https://i.pravatar.cc/150?img=1",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 2,
+            "username": "Lannister",
+            "email": "Cersei",
+            "status": "Active",
+            "transaction": 647,
+            "avatar": "https://i.pravatar.cc/150?img=2",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 3,
+            "username": "Lannister",
+            "email": "Jaime",
+            "status": "Inactive",
+            "transaction": 1223,
+            "avatar": "https://i.pravatar.cc/150?img=3",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 4,
+            "username": "Stark",
+            "email": "Arya",
+            "status": "Active",
+            "transaction": 122440,
+            "avatar": "https://i.pravatar.cc/150?img=4",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 5,
+            "username": "Targaryen",
+            "email": "Daenerys",
+            "status": "Active",
+            "transaction": 554,
+            "avatar": "https://i.pravatar.cc/150?img=5",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 6,
+            "username": "Melisandre",
+            "email": null,
+            "status": "Inactive",
+            "transaction": 432,
+            "avatar": "https://i.pravatar.cc/150?img=6",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 7,
+            "username": "Clifford",
+            "email": "Ferrar",
+            "status": "Active",
+            "transaction": 230,
+            "avatar": "https://i.pravatar.cc/150?img=7",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 8,
+            "username": "Frances",
+            "email": "Rossini",
+            "status": "Inactive",
+            "transaction": 400,
+            "avatar": "https://i.pravatar.cc/150?img=8",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        },
+        {
+            "id": 9,
+            "username": "Roxie",
+            "email": "Harvey",
+            "status": "Active",
+            "transaction": 200,
+            "avatar": "https://i.pravatar.cc/150?img=9",
+            "birtDate":"20.07.1995",
+            "address":"11,Block,NewYork",
+            "phone":"+01235735278"
+        }
+    ]
 }
