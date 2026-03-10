@@ -340,6 +340,47 @@
       "sales": 270,
       "avatar": "https://images.unsplash.com/photo-1518770660439-4636190af475"
     }
-  ]
+  ],
+  "productStats": [
+  { "productId": 1, "month": "Oct", "sales": 120 },
+  { "productId": 1, "month": "Nov", "sales": 180 },
+  { "productId": 1, "month": "Dec", "sales": 240 },
+
+  { "productId": 2, "month": "Oct", "sales": 80 },
+  { "productId": 2, "month": "Nov", "sales": 140 },
+  { "productId": 2, "month": "Dec", "sales": 200 },
+
+  { "productId": 3, "month": "Oct", "sales": 60 },
+  { "productId": 3, "month": "Nov", "sales": 90 },
+  { "productId": 3, "month": "Dec", "sales": 150 },
+
+  { "productId": 4, "month": "Oct", "sales": 60 },
+  { "productId": 4, "month": "Nov", "sales": 100 },
+  { "productId": 4, "month": "Dec", "sales": 150 },
+
+  { "productId": 5, "month": "Oct", "sales": 80 },
+  { "productId": 5, "month": "Nov", "sales": 100 },
+  { "productId": 5, "month": "Dec", "sales": 120 },
+
+  { "productId": 6, "month": "Oct", "sales": 70 },
+  { "productId": 6, "month": "Nov", "sales": 90 },
+  { "productId": 6, "month": "Dec", "sales": 160 },
+
+  { "productId": 7, "month": "Oct", "sales": 50 },
+  { "productId": 7, "month": "Nov", "sales": 90 },
+  { "productId": 7, "month": "Dec", "sales": 140 },
+
+  { "productId": 8, "month": "Oct", "sales": 60 },
+  { "productId": 8, "month": "Nov", "sales": 90 },
+  { "productId": 8, "month": "Dec", "sales": 150 },
+
+  { "productId": 9, "month": "Oct", "sales": 60 },
+  { "productId": 9, "month": "Nov", "sales": 90 },
+  { "productId": 9, "month": "Dec", "sales": 150 },
+
+  { "productId": 10, "month": "Oct", "sales": 60 },
+  { "productId": 10, "month": "Nov", "sales": 90 },
+  { "productId": 10, "month": "Dec", "sales": 150 }
+]
 
 }
