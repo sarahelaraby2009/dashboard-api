@@ -237,5 +237,109 @@
             "job":"Software Engineer",
             "gender":"female"
         }
-    ]
+    ],
+    
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15",
+      "price": 999,
+      "stock": 120,
+      "status": "active",
+      "category": "Electronics",
+      "sales": 540,
+      "avatar": "https://images.unsplash.com/photo-1695048133142-1a20484d2569"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24",
+      "price": 850,
+      "stock": 80,
+      "status": "active",
+      "category": "Electronics",
+      "sales": 410,
+      "avatar": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air M2",
+      "price": 1200,
+      "stock": 45,
+      "status": "active",
+      "category": "Electronics",
+      "sales": 230,
+      "avatar": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "price": 1100,
+      "stock": 30,
+      "status": "active",
+      "category": "Electronics",
+      "sales": 180,
+      "avatar": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28"
+    },
+    {
+      "id": 5,
+      "name": "Sony WH-1000XM5 Headphones",
+      "price": 350,
+      "stock": 95,
+      "status": "active",
+      "category": "Accessories",
+      "sales": 320,
+      "avatar": "https://images.unsplash.com/photo-1583394838336-acd977736f90"
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch Series 9",
+      "price": 399,
+      "stock": 70,
+      "status": "active",
+      "category": "Accessories",
+      "sales": 290,
+      "avatar": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b"
+    },
+    {
+      "id": 7,
+      "name": "Nike Air Max",
+      "price": 180,
+      "stock": 150,
+      "status": "active",
+      "category": "Clothing",
+      "sales": 610,
+      "avatar": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 8,
+      "name": "Adidas Running Shoes",
+      "price": 160,
+      "stock": 110,
+      "status": "active",
+      "category": "Clothing",
+      "sales": 430,
+      "avatar": "https://images.unsplash.com/photo-1608231387042-66d1773070a5"
+    },
+    {
+      "id": 9,
+      "name": "Logitech MX Master 3 Mouse",
+      "price": 120,
+      "stock": 140,
+      "status": "active",
+      "category": "Accessories",
+      "sales": 350,
+      "avatar": "https://images.unsplash.com/photo-1527814050087-3793815479db"
+    },
+    {
+      "id": 10,
+      "name": "Mechanical Gaming Keyboard",
+      "price": 150,
+      "stock": 85,
+      "status": "active",
+      "category": "Accessories",
+      "sales": 270,
+      "avatar": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+    }
+  ]
+
 }
