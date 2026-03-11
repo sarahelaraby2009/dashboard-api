@@ -342,45 +342,45 @@
     }
   ],
   "productStats": [
-  { "productId": 1, "name": "Oct", "sales": 120 },
-  { "productId": 1, "name": "Nov", "sales": 180 },
-  { "productId": 1, "name": "Dec", "sales": 240 },
+  { "productId": 1, "name": "Oct", "sales": 120,"active":"yes","inStock":"no" },
+  { "productId": 1, "name": "Nov", "sales": 180,"active":"yes","inStock":"yes" },
+  { "productId": 1, "name": "Dec", "sales": 240 ,"active":"yes","inStock":"yes"},
 
-  { "productId": 2, "name": "Oct", "sales": 80 },
-  { "productId": 2, "name": "Nov", "sales": 140 },
-  { "productId": 2, "name": "Dec", "sales": 200 },
+  { "productId": 2, "name": "Oct", "sales": 80 ,"active":"yes","inStock":"yes"},
+  { "productId": 2, "name": "Nov", "sales": 140,"active":"yes","inStock":"yes" },
+  { "productId": 2, "name": "Dec", "sales": 200,"active":"yes","inStock":"yes" },
 
-  { "productId": 3, "name": "Oct", "sales": 60 },
-  { "productId": 3, "name": "Nov", "sales": 90 },
-  { "productId": 3, "name": "Dec", "sales": 150 },
+  { "productId": 3, "name": "Oct", "sales": 60,"active":"yes","inStock":"no" },
+  { "productId": 3, "name": "Nov", "sales": 90,"active":"yes","inStock":"yes" },
+  { "productId": 3, "name": "Dec", "sales": 150 ,"active":"yes","inStock":"no"},
 
-  { "productId": 4, "name": "Oct", "sales": 60 },
-  { "productId": 4, "name": "Nov", "sales": 100 },
-  { "productId": 4, "name": "Dec", "sales": 150 },
+  { "productId": 4, "name": "Oct", "sales": 60,"active":"yes","inStock":"yes" },
+  { "productId": 4, "name": "Nov", "sales": 100 ,"active":"yes","inStock":"yes"},
+  { "productId": 4, "name": "Dec", "sales": 150,"active":"yes","inStock":"yes" },
 
-  { "productId": 5, "name": "Oct", "sales": 80 },
-  { "productId": 5, "name": "Nov", "sales": 100 },
-  { "productId": 5, "name": "Dec", "sales": 120 },
+  { "productId": 5, "name": "Oct", "sales": 80,"active":"yes","inStock":"yes" },
+  { "productId": 5, "name": "Nov", "sales": 100 ,"active":"yes","inStock":"no"},
+  { "productId": 5, "name": "Dec", "sales": 120 ,"active":"yes","inStock":"no"},
 
-  { "productId": 6, "name": "Oct", "sales": 70 },
-  { "productId": 6, "name": "Nov", "sales": 90 },
-  { "productId": 6, "name": "Dec", "sales": 160 },
+  { "productId": 6, "name": "Oct", "sales": 70,"active":"yes","inStock":"no" },
+  { "productId": 6, "name": "Nov", "sales": 90 ,"active":"yes","inStock":"yes"},
+  { "productId": 6, "name": "Dec", "sales": 160 ,"active":"yes","inStock":"yes"},
 
-  { "productId": 7, "name": "Oct", "sales": 50 },
-  { "productId": 7, "name": "Nov", "sales": 90 },
-  { "productId": 7, "name": "Dec", "sales": 140 },
+  { "productId": 7, "name": "Oct", "sales": 50,"active":"yes","inStock":"yes" },
+  { "productId": 7, "name": "Nov", "sales": 90,"active":"yes","inStock":"yes" },
+  { "productId": 7, "name": "Dec", "sales": 140 ,"active":"yes","inStock":"yes"},
 
-  { "productId": 8, "name": "Oct", "sales": 60 },
-  { "productId": 8, "name": "Nov", "sales": 90 },
-  { "productId": 8, "name": "Dec", "sales": 150 },
+  { "productId": 8, "name": "Oct", "sales": 60,"active":"yes","inStock":"yes" },
+  { "productId": 8, "name": "Nov", "sales": 90,"active":"yes","inStock":"yes" },
+  { "productId": 8, "name": "Dec", "sales": 150,"active":"yes","inStock":"yes" },
 
-  { "productId": 9, "name": "Oct", "sales": 60 },
-  { "productId": 9, "name": "Nov", "sales": 90 },
-  { "productId": 9, "name": "Dec", "sales": 150 },
+  { "productId": 9, "name": "Oct", "sales": 60,"active":"yes","inStock":"yes" },
+  { "productId": 9, "name": "Nov", "sales": 90 ,"active":"yes","inStock":"yes"},
+  { "productId": 9, "name": "Dec", "sales": 150,"active":"yes","inStock":"yes" },
 
-  { "productId": 10, "name": "Oct", "sales": 60 },
-  { "productId": 10, "name": "Nov", "sales": 90 },
-  { "productId": 10, "name": "Dec", "sales": 150 }
+  { "productId": 10, "name": "Oct", "sales": 60 ,"active":"yes","inStock":"yes"},
+  { "productId": 10, "name": "Nov", "sales": 90 ,"active":"yes","inStock":"yes"},
+  { "productId": 10, "name": "Dec", "sales": 150 ,"active":"yes","inStock":"yes"}
 ]
 
 }
